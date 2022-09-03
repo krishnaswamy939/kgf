@@ -1,0 +1,31 @@
+body {
+    color: white;
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 3%;
+    border-top: 1px dotted black;
+    font-style:italic;
+    font-size:large;
+}
+hr {
+    border-top:15px dotted lines black;
+    margin-left: 43%;
+    margin-right: 43%;
+}
+img {
+    border: 2px solid black;
+    border-radius: 30%;
+}
+a2 {
+    padding: auto;
+    margin: auto;
+
+    display: inline;
+}
+div {
+    display: inline-block;
+    padding: 10px;
+}
+#aa {
+    padding-left: 80%;
+}
